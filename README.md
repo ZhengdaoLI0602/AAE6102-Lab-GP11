@@ -1,6 +1,8 @@
 # Parameter and analysis
 
-# Strength and limitation of the library
-## Strength: Flexity, robustness, ease of use.
+# Strengths and limitations of the library
+## Strengths: Flexibility, robustness, ease of use.
 
-# 
+
+
+
