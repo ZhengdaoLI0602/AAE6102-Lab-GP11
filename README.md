@@ -1,3 +1,6 @@
+Apart from the markdown version, a clear PDF version is available at: https://github.com/ZhengdaoLI0602/AAE6102-Lab-GP11/blob/main/AAE6102_LAB%20report_Group11.pdf
+
+
 In this laboratory report, we will leverage the RTKLIB (GUI) to process the U-Blox RINEX data in the medium urban case of the UrbanNav dataset. As for the coding part, run the main script with the prefix "main\_evaluation\_" to generate the evaluated results and the figures. All the used figures in this report have also been include in the folder "Figures" in the repository.
 
 ### 1 RTKLIB Settings
